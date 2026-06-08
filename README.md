@@ -1,4 +1,4 @@
-# Invoice Generator — Full‑Stack MERN Invoice App
+# QuickBill — Full‑Stack MERN Invoice App
 
 A clean, production-minded invoice generator built with the MERN stack.
 
