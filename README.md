@@ -1,5 +1,7 @@
 # QuickBill — Full‑Stack MERN Invoice App
 
+https://quickbillls.vercel.app/
+
 A clean, production-minded invoice generator built with the MERN stack.
 
 This project generates server-side PDF invoices (PDFKit), can email them to clients using Nodemailer (Ethereal fallback for development), and includes a responsive React + Vite frontend. It supports JWT-based authentication and per-user invoice isolation.
